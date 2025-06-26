@@ -8,7 +8,7 @@ This is the official landing page of **Global Connect**, a Bahrain-based softwar
 
 ## 🔗 Live Website
 Deployed on **Netlify**: [https://globalconnectsys.netlify.app/](https://globalconnectsys.netlify.app/)  
-_(Replace the above URL with your actual deployed Netlify link)_
+
 
 ---
 
