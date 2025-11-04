@@ -6,9 +6,6 @@ A professional, responsive landing page built with HTML5, CSS, and Bootstrap for
 
 This is the official landing page of **Global Connect**, a Bahrain-based software development company, designed for professional digital presence, IT services, and business transformation offerings.
 
-## 🔗 Live Website
-Deployed on **Netlify**: [https://globalconnectsys.netlify.app/](https://globalconnectsys.netlify.app/)  
-
 
 ---
 
@@ -44,13 +41,6 @@ Deployed on **Netlify**: [https://globalconnectsys.netlify.app/](https://globalc
 
 ---
 
-## 🚀 Deployment Steps
-
-1. Visit [Netlify](https://app.netlify.com/)
-2. Drag and drop the project folder (containing `index.html`) into the deploy box
-3. After deployment, go to Site Settings → **Change site name** to your preferred URL
-
----
 
 ## 🖼️ Credits
 
@@ -65,5 +55,4 @@ Deployed on **Netlify**: [https://globalconnectsys.netlify.app/](https://globalc
 
 - 📧 Email: it@globalconnectsys.com  
 - 📞 Phone: +973 17681211 / +973 33232670  
-- 🌐 Website: [https://globalconnectsys.com](https://globalconnectsys.com)  
 - 📱 WhatsApp: [Chat Now](https://wa.me/+97333730184)
